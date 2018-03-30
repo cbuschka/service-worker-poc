@@ -1,9 +1,10 @@
 # POC for a service worker update/reload setup
 
-## Instructions
+## Usage
+* Clone repo and change to www/
 * Start a http server
 ```
-cd www && python -m SimpleHTTPServer
+python -m SimpleHTTPServer
 ```
 * Open localhost:8080 in browser (tested with chromium 63)
 * Change sw.js and wait until reload button appears
