@@ -1,5 +1,6 @@
 # POC for a service worker update/reload setup
 
+## Instructions
 * Start a http server
 ```
 cd www && python -m SimpleHTTPServer
